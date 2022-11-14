@@ -1,4 +1,4 @@
-![App screenshot](/portfolio-tpfinal/src/assets/Captura1.png)
+<img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/Captura1.png" alt=}>
 
 
 # Portfolio-Trabajo-Final
