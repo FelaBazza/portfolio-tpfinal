@@ -55,7 +55,11 @@ const About = ()=>{
 
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium molestiae eligendi quibusdam laborum repellat quod quas commodi iste ipsum in, aliquam, aliquid sequi cumque perspiciatis quos voluptate est ipsa aspernatur?</p>
+          <p>Soy una persona que le encanta las computadoras, el mundo virtual y como funcionan. Soy un amante de la tecnologia
+             y aun que tengo poca experiencia y poco tiempo en el mundo de la programacion, ya encontre mi lugar. Mi lugar esta donde las necesidades de los clientes nacen.
+             Tengo muchas ganas de iniciar este camino con resposabilidad y madurez. Agregar mi perfil emprendedor y de liderazgo con grupos de trabajo, para brindarle al cliente el mejor servicio.
+             La búsqueda y solucion de problemas es mi fuerte, la implementacion de planes para crecimiento de productividad es mi objetivo, y usar la programacion y codificacion para realizar todas
+             esas tareas... Es mi pasión</p>
              
              <a href="#contact" className='btn btn-primary'>Hablemos!</a>
          </div>
