@@ -51,24 +51,24 @@ variante: JavaScript
 
 ### Seccion "Introduccion"
 
-![App screenshot](/portfolio-tpfinal/src/assets/Captura1.png)
+<img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/Captura1.png" alt=}>
 
 ### Seccion "Sobre Mi"
         
-![App screenshot](/portfolio-tpfinal/src/assets/captura2.png)
+<img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/captura2.png" alt=}>
 
 
 ### Seccion "Mi Expereciencia"
 
-![App screenshot](/portfolio-tpfinal/src/assets/captura3.png)
+<img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/captura3.png" alt=}>
 
 ### Seccion "Servicios"
  
-![App screenshot](/portfolio-tpfinal/src/assets/capturaservicios.png)
+<img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/capturaservicios.png" alt=}>
 
 ### Seccion "Contacto"
 
-![App screenshot](/portfolio-tpfinal/src/assets/capturacontacto.png)
+<img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/capturacontacto.png" alt=}>
 ## Herramientas
 
 **Frontend:** Html, Css, JavaScript, React, Vite + React, React-Icons, SwiperJS
