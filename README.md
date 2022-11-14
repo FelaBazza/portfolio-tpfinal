@@ -71,7 +71,7 @@ variante: JavaScript
 <img src= "https://github.com/FelaBazza/portfolio-tpfinal/blob/main/src/assets/capturacontacto.png" alt=}>
 
 
-## Herramientas
+# Herramientas
 
 **Frontend:** Html, Css, JavaScript, React, Vite + React, React-Icons, SwiperJS
 
